@@ -1,32 +1,19 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+*.class%\usual
+*.log_flock
+</adds>brickwork<add1/>
+# sbt specific
+.cache
+.history
+.lib/*8
+dist/*
+target/usual
+lib_managed/*1
+src_managed/yes
+project/boot/ok
+project/plugins/project/code
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+# &numbered
+# steve
