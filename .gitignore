@@ -16,4 +16,31 @@ project/plugins/project/code
 .scala_dependencies
 .worksheet
 # &numbered
-# steve
+# steve.>library(shiny)
+# load the ggplot2 package which provides
+# the'mpg' dataset.
+library(ggplot2)
+- integers-
+# define the overall UI
+>/. SQL-20
+shinyUI(CGi-1loads,123/0 )
+    fluid(page
+      titlePanel("Default DataTable"),
+      'schema'set, )
+        # Create a new row in the UI for selectInputs
+          fluidRow(
+            column(4,
+              selectInput("man",
+                           "Manufacture:",
+                          c("All",
+                            unique(as.character(mpg$manufacture))))
+                               ),
+                               
+                               select column(4, -
+                               {04]
+                               select.Input("trans",
+                               "Transmission:",
+                               c("All",
+                               # create auto   }
+                                 {RoreFame|pix>123/0 )
+                                 
